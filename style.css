@@ -1,0 +1,196 @@
+```css
+/* --------------------------------
+   Basic settings
+-------------------------------- */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: #fdfdfc;
+    color: #26343b;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+
+/* --------------------------------
+   Main container
+-------------------------------- */
+
+.container {
+    width: 90%;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 90px 0 60px;
+}
+
+
+/* --------------------------------
+   Introduction
+-------------------------------- */
+
+.intro h1 {
+    margin: 0 0 6px;
+    font-size: 32px;
+    font-weight: normal;
+    line-height: 1.2;
+}
+
+.affiliation {
+    margin: 0;
+    color: #61727b;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.bio {
+    max-width: 650px;
+    margin-top: 35px;
+    margin-bottom: 0;
+}
+.intro-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 40px;
+}
+
+.intro-text {
+    flex: 1;
+}
+
+.profile-photo {
+    width: 150px;
+    height: auto;
+    display: block;
+}
+
+/* --------------------------------
+   Main navigation
+-------------------------------- */
+
+.main-nav {
+    display: flex;
+    flex-direction: column;
+    margin-top: 65px;
+    gap: 10px;
+}
+
+.main-nav a {
+    color: #536b78;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.main-nav a:hover {
+    color: #26343b;
+    text-decoration: underline;
+}
+
+/* --------------------------------
+   Footer
+-------------------------------- */
+
+footer {
+    display: flex;
+    gap: 22px;
+    margin-top: 75px;
+    font-size: 15px;
+}
+
+footer a {
+    color: #61727b;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #26343b;
+    text-decoration: underline;
+}
+
+/* --------------------------------
+   Mobile
+-------------------------------- */
+
+@media (max-width: 600px) {
+
+    .container {
+        width: 88%;
+        padding-top: 55px;
+    }
+
+    .intro h1 {
+        font-size: 28px;
+    }
+
+    body {
+        font-size: 16px;
+    }
+
+    .main-nav {
+        margin-top: 50px;
+    }
+
+    footer {
+        margin-top: 60px;
+    }
+}
+```
+```css
+/* --------------------------------
+   Research page
+-------------------------------- */
+
+.page-header {
+    margin-bottom: 80px;
+}
+
+.page-header  {
+    color: #61727b;
+    text-decoration: none;
+}
+
+.page-header h1 {
+    margin: 0 0 15px;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.page-header a {
+    color: #61727b;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.page-header a:hover {
+    text-decoration: underline;
+}
+
+.research-section {
+    margin-bottom: 25px;
+}
+
+.research-section h2 {
+    margin: 0 0 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.research-section h2 {
+    color: #61727b;
+    text-decoration: none;
+}
+
+.research-section p {
+    margin: 0;
+    max-width: 650px;
+}
+
+
+```

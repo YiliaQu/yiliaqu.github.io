@@ -1,0 +1,74 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research — Yilia (Yijia) Qu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="container">
+
+        <header class="page-header">
+            <h1>"Without Truth"</h1>
+   
+        </header>
+  	<section class="research-section">
+
+            <p>"“Without Truth” is a collection of creative works inspired by my research. 
+		Through creative writing and experimental narrative, 
+		I explore questions of family, home, diaspora, queerness, memory, and non-linear storytelling. <br><br>
+
+		In contemporary culture, truth is often treated as the foundation of trust, freedom, and relationships. 
+		But truths do not exist outside relations of power. 
+		Who gets to define what is true? Whose truth gets to be told, and whose gets to be heard? <br><br>
+		In <i>Without Truth</i>, I ask what happens when we let go of the idea of a fixed or singular truth. 
+		Instead, perspectives, affects, memories, and desires are allowed to entangle. 
+		Feelings are messy. Memories are elastic. So how do we build love, care, and relationships from them?
+		
+	    </p>
+	</section>
+
+        <section class="research-section">
+
+	   <h2>塑料盆栽 Plastic Plants</h2>
+
+            <p>
+		《塑料盆栽（Plastic Plants）》 is a mandarin short novel I wrote in 2023. 
+		It is about a queer women visiting her old college friend while try to understand her inconsistant memory of college. <br><br>
+		It was first 
+		<a href="https://mp.weixin.qq.com/s/2X9tRVpJTsZLRTvyMoqLew">published digitally</a>		
+		on "月亮纵队 Moon Crew" in September 2023, then published in print in 《剑桥文艺》, a literature magazine run by PhD students in University of Cambridge, in March 2025.<br><br>
+		English version coming soon.
+	    </p>
+
+        </section>
+
+        <section class="research-section">
+
+            <h2>The Call</h2>
+
+            <p>
+		
+		The Call is an interactive novel/game I developed and published in the Summer of 2024. <br><br>
+		This game is designed to be an experimental alternative to mainstream Parenting Simulation Games. 
+		The player play as a mom who tries to understand the life of her daughter through WeChat.<br><br>
+		The development process was supported by NYU DH Graduate Fellowship. <br><br>
+		<a href="The Call_.html">play here</a>
+            </p>
+
+
+        <footer>
+            <a href="mailto:your-email@uci.edu">Email</a>
+            <a href="Yilia Yijia Qu CV_Aug 2026.pdf">CV</a>
+            <a href="https://scholar.google.com/">Google Scholar</a>
+        </footer>
+
+    </main>
+
+</body>
+</html>
